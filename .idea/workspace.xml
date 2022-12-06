@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c33c0157-1969-43d8-b3b1-ef372c2627a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/vuefrontend/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/vuefrontend/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuefrontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuefrontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuefrontend/src/components/DataBox.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vuefrontend/src/components/DataBox.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vuefrontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vuefrontend/vue.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vuefrontend" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IYGtHn5bH97AUzlBMhm2mGsbbg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/manishamanvi/Desktop/ManishaManvi_vue"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c33c0157-1969-43d8-b3b1-ef372c2627a2" name="Changes" comment="" />
+      <created>1670351315952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670351315952</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first readme">
+      <created>1670351362491</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670351362491</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first readme new files added">
+      <created>1670351494717</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670351494717</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first readme new files added">
+      <created>1670351577488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670351577488</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first readme second">
+      <created>1670351764185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670351764185</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first readme third">
+      <created>1670352137000</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670352137000</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first readme" />
+    <MESSAGE value="first readme new files added" />
+    <MESSAGE value="first readme second" />
+    <MESSAGE value="first readme third" />
+    <option name="LAST_COMMIT_MESSAGE" value="first readme third" />
+  </component>
+</project>
